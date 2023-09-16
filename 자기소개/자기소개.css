@@ -1,0 +1,43 @@
+.frame-box{
+    height: 100vh;
+    background-color: seagreen;
+}
+.frame-box1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.frame{
+    border: none solid white;
+    width: 250px;
+    height: 700px;
+}
+.text{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.imgg{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    display: flex;
+}
+.text1{
+    font-family: 'Gugi', cursive;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sunflower', sans-serif;    
+    font-size: 20px;
+}
+.text2{
+    font-family: 'Gugi', cursive;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sunflower', sans-serif;    
+    font-size: 30px;
+    margin-bottom: 40px;
+}
